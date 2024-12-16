@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>649th RSG HHC | Supply </title>
